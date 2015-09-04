@@ -6,7 +6,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = 'https://github.com/chunguiLiu/BGNetwork'
   spec.author       = {'chunguiLiu' => 'chunguiLiu@126.com'}
   spec.source       = { :git => 'https://github.com/chunguiLiu/BGNetwork.git', :tag => '0.1.0' }
-  spec.source_files = "BGNetwork","BGNetwork/**/*.{h,m}"
+  spec.source_files = "BGNetwork/BGNetwork/*"
   spec.platform     = :ios, '7.0'
   spec.requires_arc = true
   spec.dependency 'AFNetworking', '~> 2.0'
