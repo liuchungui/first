@@ -15,10 +15,5 @@
     "platforms": {
         "ios": "7.0"
     },
-    "requires_arc": true,
-    "dependencies": {
-        "AFNetworking": [
-            "~> 2.0"
-        ]
-    }
+    "requires_arc": true
 }
