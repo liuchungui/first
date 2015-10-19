@@ -1,0 +1,19 @@
+{
+    "name": "TestCocoaPodsProject",
+    "version": "0.1.2",
+    "license": "MIT",
+    "summary": "TestCocoaPodsProject is a test",
+    "homepage": "https://github.com/chunguiLiu/TestCocoaPodsProject",
+    "authors": {
+        "chunguiLiu": "chunguiLiu@126.com"
+    },
+    "source": {
+        "git": "https://github.com/chunguiLiu/TestCocoaPodsProject.git",
+        "tag": "0.1.2"
+    },
+    "source_files": "Classes/*",
+    "platforms": {
+        "ios": "7.0"
+    },
+    "requires_arc": true
+}
