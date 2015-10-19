@@ -11,7 +11,7 @@
         "git": "https://github.com/chunguiLiu/TestCocoaPodsProject.git",
         "tag": "0.1.2"
     },
-    "source_files": "Classes/*",
+    "source_files": "Classes/**",
     "platforms": {
         "ios": "7.0"
     },
